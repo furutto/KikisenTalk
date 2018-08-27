@@ -17,21 +17,21 @@ FFXIVのマクロに登録したメッセージをDiscordに送信する機能�
 
 ![Discord Speech1](https://github.com/furutto/KikisenTalk/blob/master/resources/image/readme_enable_speech1.png)
 
-      ユーザー設定を開き、[通知]→[テキスト読み上げによる通知]の設定を「すべてのチャンネル」または「現在の選択したチャンネルのみ」を選択します。
+* ユーザー設定を開き、[通知]→[テキスト読み上げによる通知]の設定を「すべてのチャンネル」または「現在の選択したチャンネルのみ」を選択します。
 
 2. サーバーにWEBHOOKを追加します
 
 ![Discord Webhook1](https://github.com/furutto/KikisenTalk/blob/master/resources/image/readme_add_webhook1.png)
 
-      サーバーを選択して右クリック、[サーバー設定]→[Webhooks]を開きます
+* サーバーを選択して右クリック、[サーバー設定]→[Webhooks]を開きます
 
 ![Discord Webhook2](https://github.com/furutto/KikisenTalk/blob/master/resources/image/readme_add_webhook2.png)
 
-      [Webhooks]→[Webhookを作成]をクリックします
+* [Webhooks]→[Webhookを作成]をクリックします
 
 ![Discord Webhook3](https://github.com/furutto/KikisenTalk/blob/master/resources/image/readme_add_webhook3.png)
 
-      [WEBHOOK URL]はACT側で設定する必要があるので、Copyボタンを押して設定を憶えておいてください
+* [WEBHOOK URL]はACT側で設定する必要があるので、Copyボタンを押して設定を憶えておいてください
 
 
 ## 使用方法
@@ -40,7 +40,7 @@ FFXIVのマクロに登録したメッセージをDiscordに送信する機能�
 
 ![ACT Settings](https://github.com/furutto/KikisenTalk/blob/master/resources/image/readme_settings.png)
 
-      [Plugins]→[Kikisen Talk]タブの[Webhook url]テキストボックスに、Discordで追加した[WEBHOOK URL]をセットします
+* [Plugins]→[Kikisen Talk]タブの[Webhook url]テキストボックスに、Discordで追加した[WEBHOOK URL]をセットします
 
 2. FFXIV側でマクロにメッセージを登録して実行します。
 
