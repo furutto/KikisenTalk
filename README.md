@@ -74,21 +74,21 @@ Discordには「今日の天気は晴れ」と送信されます。
 ## Discord側の準備
 1. Discord のメッセージ読み上げを有効にします  
 
-<img src= "(https://github.com/furutto/KikisenTalk/blob/master/resources/image/readme_enable_speech1.png" width="600px">  
+<img src= "https://github.com/furutto/KikisenTalk/blob/master/resources/image/readme_enable_speech1.png" width="600px">  
 
 ユーザー設定を開き、[通知]→[テキスト読み上げによる通知]の設定を「すべてのチャンネル」または「現在の選択したチャンネルのみ」を選択します。
 
 2. サーバーにWEBHOOKを追加します（追加にはサーバー管理者の権限が必要です）   
 
-<img src= "(https://github.com/furutto/KikisenTalk/blob/master/resources/image/readme_add_webhook1.png">  
+<img src= "https://github.com/furutto/KikisenTalk/blob/master/resources/image/readme_add_webhook1.png">  
 
 サーバーを選択して右クリック、[サーバー設定]→[Webhooks]を開きます。
 
-<img src= "(https://github.com/furutto/KikisenTalk/blob/master/resources/image/readme_add_webhook2.png" width="600px"> 
+<img src= "https://github.com/furutto/KikisenTalk/blob/master/resources/image/readme_add_webhook2.png" width="600px"> 
 
 [Webhooks]→[Webhookを作成]をクリックします
 
-<img src= "(https://github.com/furutto/KikisenTalk/blob/master/resources/image/readme_add_webhook3.png" width="600px">  
+<img src= "https://github.com/furutto/KikisenTalk/blob/master/resources/image/readme_add_webhook3.png" width="600px">  
 
 [WEBHOOK URL]はACT側で設定する必要があるので、Copyボタンを押して設定を憶えておいてください
 
